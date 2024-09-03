@@ -4,9 +4,9 @@ Welcome to your new guessWord project and to the internet computer development c
 
 cannister id for main net guess word
 
-#frontend   --> https://qn5au-ciaaa-aaaao-a2lwa-cai.icp0.io/
+#frontend   --> https://ywljm-fiaaa-aaaao-a3qcq-cai.icp0.io/
 
-#backend    --> https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=qy2rz-daaaa-aaaao-a2lvq-cai
+#backend    --> https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=yrkpy-iqaaa-aaaao-a3qca-cai
 
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
